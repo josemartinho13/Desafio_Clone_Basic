@@ -1,2 +1,6 @@
 teste1
+<<<<<<< HEAD
 alterei no local
+=======
+aleter web
+>>>>>>> 921af8689093771a2e04f4f624da0828e73415fe
